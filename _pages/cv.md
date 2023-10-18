@@ -17,11 +17,26 @@ Education
 
 Work experience
 ======
-* July 2019-July 2022	Environmental Systems Research Institute (Redlands, CA)
+* July 2019-July 2022	Environmental Systems Research Institute
   * R&D Engineer in Spatial Statistics Team 
     * Developed ArcGIS Pro tools for spatial-temporal analysis in an agile software development team
     * Researched statistical methods and developing prototypes in Python, including time series forecasting, dimension reduction techniques, time series clustering
     * Lead discussion and preparing materials in product design meetings
+
+* May 2018 - May 2019 University of Michigan
+  *  Statistical Programmer
+ 
+* Jul 2015 - Oct 2015 Natural Resources Defense Council
+  * Clean Energy Research Intern
+
+
+Skills
+======
+* Programming Languages: (Proficient) Python, R, Git (Intermediate) C++, MATLAB (Basic) SQL, JavaScript
+* Statistical Analysis: Bayesian modeling, MCMC, causal inference, spatial temporal statistics, machine learning
+* Software: Github, ArcGIS Pro, ArcGIS Pro, SAS
+
+
 
 Publications
 ======
