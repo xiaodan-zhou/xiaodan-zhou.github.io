@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Statistics, North Carolina State University, 2026 (expected)
 * M.S. in Applied Statistics, University of Michigan, 2019
-* B.S. Environmental Sciences, Peking University, 2016
+* B.S. in Environmental Sciences, Peking University, 2016
 
 Work experience
 ======
@@ -35,7 +35,6 @@ Skills
 * Programming Languages: (Proficient) Python, R, Git (Intermediate) C++, MATLAB (Basic) SQL, JavaScript
 * Statistical Analysis: Bayesian modeling, MCMC, causal inference, spatial temporal statistics, machine learning
 * Software: Github, ArcGIS Pro, ArcGIS Pro, SAS
-
 
 
 Publications
